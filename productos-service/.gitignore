@@ -1,0 +1,29 @@
+# Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# SonarQube local cache
+.sonar/
+
+# Secrets — nunca commitear tokens
+sonar-token.txt
+*.token
