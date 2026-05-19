@@ -213,13 +213,16 @@ Ver resultados en:
 > Agregar las capturas reales tras ejecutar el análisis.
 
 ### Dashboard general
-![Dashboard SonarQube](docs/sonar-dashboard.png)
+<img width="794" height="933" alt="image" src="https://github.com/user-attachments/assets/974e0cd3-8244-4e85-b7b6-e52db67f159b" />
+
 
 ### Detalle de Bugs
-![Detalle Bugs](docs/sonar-bugs.png)
+<img width="1275" height="879" alt="image" src="https://github.com/user-attachments/assets/59658398-8082-4a61-a4e3-e0daa474abcd" />
+
 
 ### Detalle de Code Smells
-![Detalle Code Smells](docs/sonar-codesmells.png)
+<img width="1271" height="795" alt="image" src="https://github.com/user-attachments/assets/2b321021-2a20-46ba-bbd5-b80a8b137470" />
+
 
 ---
 
